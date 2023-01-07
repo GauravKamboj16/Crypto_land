@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "864520771169",
+    "project_id": "crypto-land-4764b",
+    "storage_bucket": "crypto-land-4764b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864520771169:android:c1f612990b9e191156fc20",
+        "android_client_info": {
+          "package_name": "com.gkApps.crypto_land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864520771169-rp4chalu44hm2egoun5rsedu529ncg05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZSIOUL273U3WpG-ys9lFC-TkEL42hQmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864520771169-rp4chalu44hm2egoun5rsedu529ncg05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
