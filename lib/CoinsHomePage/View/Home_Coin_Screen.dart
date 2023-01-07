@@ -6,7 +6,7 @@ import 'package:crypto_land/CoinDetails/View/CoinDetailScreen.dart';
 import 'package:crypto_land/CoinsHomePage/Controller/HomeController.dart';
 import 'package:crypto_land/CoinsHomePage/View/MarketDetails.dart';
 import 'package:crypto_land/CoinsHomePage/View/Shimmer.dart';
-import 'package:crypto_land/Screens/ImageTest.dart';
+
 import 'package:crypto_land/Screens/ItemDesign.dart';
 import 'package:crypto_land/Screens/RewardsScreen.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';

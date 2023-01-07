@@ -1,6 +1,6 @@
 import 'package:crypto_land/CoinDetails/View/CoinDetailScreen.dart';
 import 'package:crypto_land/Models/CryptoModel.dart';
-import 'package:crypto_land/Screens/ImageTest.dart';
+
 import 'package:flutter/material.dart';
 import 'package:sparkline/sparkline.dart';
 import 'package:get/get.dart';
